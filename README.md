@@ -53,7 +53,7 @@
   <div class="card">
     <h1>امیرفیکس</h1>
     <p>تعمیرات تخصصی موبایل</p><div class="links">
-  <a class="call" href="tel:09999820929">📞 تماس با ما</a>
+  <a class="call" href="tel:+989999820929">📞 تماس با ما</a>
   <a class="whatsapp" href="https://wa.me/989999820929">💬 پیام در واتساپ</a>
   <a class="instagram" href="https://www.instagram.com/amirfix">📸 مشاهده در اینستاگرام</a>
 </div>
